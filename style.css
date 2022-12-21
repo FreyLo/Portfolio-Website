@@ -4,6 +4,7 @@
     background: url('images/heroImage.jpg');
     background-size:cover;
     position:relative;
+    width: 100%;
 }
 
 /* Sobald gescrollt wird, erhält die Navigationsleiste einen schwarzen Hintergrund */
