@@ -4,7 +4,6 @@
     background: url('images/heroImage.jpg');
     background-size:cover;
     position:relative;
-    width: 100%;
 }
 
 /* Navigationsleiste erhält einen schwarzen Hintergrund */
@@ -33,7 +32,6 @@
 /* Beschreibung des Bildes in der "Über mich"-Sektion */
 .imageAboutPage {
     width: 100%;
-    height: 100%;
 }
 /* Farbanpassung der Links, da die Regel der Navigationsleiste aus Bootstrap übernommen sind, muss sie mit !important übersteuert werden */
 .nav-link,.navbar-brand{    
@@ -82,10 +80,10 @@
 #footer {
     background-color: #808080;
     text-align: center;
-    bottom: 0;
+    
 }
 /* Abstand zwischen den Sektionen */
-#about, #portfolio, #contact {
+#about, #portfolio, #contact, #skills {
     margin-top: 4rem;
     padding-top: 4rem;
 }

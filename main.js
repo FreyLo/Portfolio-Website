@@ -1,3 +1,4 @@
+// Steuerung der Transitionen
 window.onload = () => {
     const anchors = document.querySelectorAll('a');
     const transition_el = document.querySelector('.transition');
@@ -25,3 +26,7 @@ window.onload = () => {
       })
     }
   }
+// Pop-up für Button auf Kontakt-Seite
+function show_popup() {
+  alert ("Diese Funktion ist leider noch nicht vorhanden.")
+}
