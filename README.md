@@ -8,4 +8,4 @@ Dieses Projekt wurde im Rahmen des Kurses "EWEB" der Berner Fahhochschule erstel
 * [google maps embedding](https://www.embed-map.com/) - Einbettung von Google Maps-Ausschnitt
 
 ## Danksagung ##
-Ein grosses Dankeschön an [Sampurna Chapagain](https://github.com/SampurnaC/portfolio_website_fcc/tree/portfolio-starter-files) für die Inspiration und die Vorlage der Webseitenstruktur sowie an [Tyler Potts](https://github.com/TylerPottsDev/js-page-transitions-basic) für die Insoiration der Transitionen.
+Ein grosses Dankeschön an [Sampurna Chapagain](https://github.com/SampurnaC/portfolio_website_fcc/tree/portfolio-starter-files) für die Inspiration und die Vorlage der Webseitenstruktur sowie an [Tyler Potts](https://github.com/TylerPottsDev/js-page-transitions-basic) für die Inspiration für die Transitionen.
